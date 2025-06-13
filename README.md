@@ -7,3 +7,4 @@ Repository for practicing pull requests
 
 
 Update README with project description
+We will practice creating branches, making changes, creating pull requests, reviewing code, and merging changes.
